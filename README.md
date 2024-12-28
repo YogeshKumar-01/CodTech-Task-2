@@ -1,7 +1,7 @@
 # CodTech-Task-2
-- **Name**: Vikram Singh Kushwah  
+- **Name**: Yogesh Kumar  
 - **Company**: CODTECH IT SOLUTIONS  
-- **ID**: CT12WDS90  
+- **ID**: CT12WDS88  
 - **Domain**: Data Analytics  
 - **Duration**: 5th December 2024 to 5th March 2025  
 - **Mentor**: Neela Santhosh Kumar  
